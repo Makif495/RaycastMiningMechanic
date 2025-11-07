@@ -30,7 +30,7 @@ This project focuses on implementing:
 
 | Action | Description |
 |:--|:--|
-| **E Key** | Equip / unequip the pickaxe |
+| **E Key** | Equip |
 | **Mouse Click** | Send a Raycast forward to mine the tile |
 | **Tile Hit** | Tile is destroyed upon detection |
 | **Floating Diamonds** | Fall when not touching tiles |
