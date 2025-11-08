@@ -20,9 +20,9 @@ This project focuses on implementing:
 
 ---
 
-## 🎥 Gameplay Preview Video
+## 🎥 Gameplay Preview
 
-[![Watch the video](https://img.youtube.com/vi/3E-nX4FMJDY/0.jpg)](https://www.youtube.com/watch?v=3E-nX4FMJDY)
+![Gameplay Preview](MinerGif.gif)
 
 ---
 
