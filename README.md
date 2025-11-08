@@ -20,7 +20,7 @@ This project focuses on implementing:
 
 ---
 
-## 🎥 Gameplay Preview
+## 🎥 Gameplay Preview Video
 
 [![Watch the video](https://img.youtube.com/vi/3E-nX4FMJDY/0.jpg)](https://www.youtube.com/watch?v=3E-nX4FMJDY)
 
